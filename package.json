@@ -15,6 +15,7 @@
     "csv-writer": "^1.6.0",
     "express": "^4.19.2",
     "git": "^0.1.5",
+    "pandas": "^0.0.3",
     "xlsx": "^0.18.5"
   },
   "devDependencies": {
